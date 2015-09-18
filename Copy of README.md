@@ -1,2 +1,0 @@
-# LoanSystem
-For Testing only  
