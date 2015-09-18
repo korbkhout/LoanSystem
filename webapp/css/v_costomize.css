@@ -1,0 +1,48 @@
+
+/* table style 1 */
+.tr-heading{
+	background-color:#A6C1CC !important;
+}
+.tr-warning{
+	background-color:#F1BCB5 !important;
+}
+.tr-warning:hover{
+	background-color:#EF9387 !important;
+}
+.tr-safe{
+	background-color:#93C4EF !important;
+}
+.tr-safe:hover{
+	background-color:#1977CA !important;
+	color:#fff !important;
+}
+.tr-appending{
+	background-color:#C1BE5D !important;
+}
+.tr-appending:hover{
+	background-color:#ABA624 !important;
+}
+/* //table style 1 */
+
+/* input file style */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+/* //input file style */
